@@ -1,3 +1,7 @@
+Deployed on OpenShift / RHC: https://openshift.redhat.com/app/console/application/547bbdd7e0b8cdd1f9000007-monicaespinel
+Running on here: http://monicaespinel-artwaresolutions.rhcloud.com/
+With alias: https://monicaespinel.com/
+
 WordPress on OpenShift
 ======================
 
