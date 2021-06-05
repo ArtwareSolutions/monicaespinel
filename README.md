@@ -10,4 +10,9 @@ With alias: https://monicaespinel.com/wp-admin/
 
 CDN from Cloudflare via Bluehost
 
-SSL certif from letsencrypt via Bluehost
+SSL certif from Let's Encrypt via Bluehost
+
+Backup
+=======================
+
+Backups from UpdraftPlus via https://updraftplus.com/my-account/updraftcentral-remote-control/
